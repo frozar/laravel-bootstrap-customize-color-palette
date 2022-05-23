@@ -11,9 +11,9 @@ The purpose of this project is to show how to customize the color palette of boo
 
 ## Documentation
 
-https://stackoverflow.com/questions/50941780/how-to-use-scss-files-in-laravel
-https://laravel.com/docs/5.3/elixir#sass
-https://getbootstrap.com/docs/5.2/customize/sass/#maps-and-loops
+https://stackoverflow.com/questions/50941780/how-to-use-scss-files-in-laravel  
+https://laravel.com/docs/5.3/elixir#sass  
+https://getbootstrap.com/docs/5.2/customize/sass/#maps-and-loops  
 
 ## How to launch this project
 
