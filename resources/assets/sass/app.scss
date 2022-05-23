@@ -1,0 +1,16 @@
+$primary: #1b998b;
+$secondary: #264722;
+// $success: ;
+// $info: ;
+$warning: #ffbf00;
+// $danger: ;
+$light: #a4969b;
+$dark: #454955;
+
+$enable-negative-margins: true;
+
+@import "bootstrap";
+
+.button-width {
+    min-width: 120px;
+}
